@@ -1,7 +1,7 @@
 # Getting started with Flutter Linear Gauge widget
 A quick-start example to help you add the Syncfusion Flutter Gauges package to a Flutter app. You will learn how to add a Linear Gauge widget to a Flutter project. You will learn how to add axis, marker pointer, bar pointer, and ranges in the Linear Gauge. You will also learn how to change the orientation of the Linear Gauge.
 
-Watch the video: Coming soon...
+Watch the video: https://www.syncfusion.com/tutorial-videos/flutter/linear-gauge?title=getting-started-with-flutter-linear-gauge-widget
 
 Documentation: https://help.syncfusion.com/flutter/linear-gauge/overview
 
